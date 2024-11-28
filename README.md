@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="R_Ladies_Morelia.png" style="width:155px;height:100px;">
+</p>
+
 # Creación de Mapas en R
 
 ## Participantes
