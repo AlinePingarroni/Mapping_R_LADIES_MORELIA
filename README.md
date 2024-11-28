@@ -1,11 +1,11 @@
 # Creación de Mapas en R
 
-## Créditos
+## Participantes
 
 - **Aline Pingarroni** (FES-Iztacala UNAM)  
 - **Gabriela Centeno Cabada** (ENES Morelia)  
 - **Quetzally Medina V.** (Fac. de Ciencias UNAM)  
-- **Mariel**  
+- **Mariel Guadalupe Gutierrez Chaveste** (CCM UNAM)
 
 **R-Ladies Morelia** - Taller: Aprendiendo a hacer mapas en R.  
 Los datos y las figuras utilizadas provienen del artículo *Mapping the planet’s critical natural assets* ([Nature](https://www.nature.com/articles/s41559-022-01934-5)).
