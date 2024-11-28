@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="LogoColor_v3.png" style="width:255px;height:200px;">
+    <img src="LogoColor_v3.png" style="width:255px;height:150px;">
 </p>
 
 # Creación de Mapas en R
